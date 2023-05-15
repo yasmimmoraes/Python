@@ -1,2 +1,2 @@
 # Python-aprendizado
- Tudo o que aprendi sobre a linguagem até agora
+ Desafios que completei utilizando Python, fiz um repositório porque de vez em quando o Alzheimer bate
